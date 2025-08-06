@@ -1,0 +1,34 @@
+# Gradle build folder
+/build/
+/out/
+
+# VSCode files
+.vscode/
+
+# Gradle wrapper logs and caches
+.gradle/
+.gradle-cache/
+
+# Build outputs
+/bin/
+/build/
+/run/
+run-data/
+
+# Eclipse files (如果用Eclipse)
+.settings/
+/.project
+.classpath
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Log files
+*.log
+
+# Other temp or user config files
+*.tmp
+*.swp
