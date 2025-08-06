@@ -15,16 +15,11 @@
 /run/
 run-data/
 
-# Eclipse files (如果用Eclipse)
-.settings/
-/.project
-.classpath
-
 # MacOS files
 .DS_Store
 
-# Windows files
 Thumbs.db
+LICENSE.txt
 
 # Log files
 *.log
