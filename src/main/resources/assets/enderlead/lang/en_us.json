@@ -1,4 +1,6 @@
 {
     "item.enderlead.ender_lead": "Ender Lead",
-    "itemGroup.enderlead": "Enderlead"
+    "itemGroup.enderlead": "Enderlead",
+    "info.apotheosis.noentity": "Held Entity: Nothing",
+    "info.apotheosis.containedentity": "Held Entity: %s"
 }
